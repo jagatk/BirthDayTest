@@ -17,4 +17,8 @@
     echo "<pre>";
     echo "Birth Date : 1982-10-25 " . "<br>Age : " . GetAge('1982-10-25');
     echo "</pre>";
+	
+	echo "<pre>";
+    echo "Birth Date : 1984-04-26 " . "<br>Age : " . GetAge('1984-04-26');
+    echo "</pre>";
 ?>
